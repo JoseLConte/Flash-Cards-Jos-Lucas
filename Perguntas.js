@@ -1,89 +1,89 @@
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'conhecimentos gerais'
+'1. Qual o livro mais vendido no mundo a seguir à Bíblia?',
+'Dom Quixote  '
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'geografia'
+'2. Qual a montanha mais alta do Brasil?',
+'Pico da Neblina'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'astrologia'
+'3. Quais os planetas do sistema solar?',
+'Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno, Mercúrio'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'história'
+'4. Quem foi o primeiro homem a pisar na Lua? Em que ano aconteceu?',
+' Neil Armstrong, em 1969. '
 )
 
 criaCartao(
-'categoria'
+'5. Qual o metal cujo símbolo químico é o Au?'
 'pergunta',
-'resposta'
+'Ouro'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'conhecimentos gerais'
+'6. Qual o motivo da condenação de Luís Inácio Lula da Silva em 2018?',
+'Recebimento de apartamento de luxo no Guarujá como propina na Operação Lava Jato'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'geografia'
+'7. Qual a função da ONU?',
+'Unir as nações com o objetivo de manter a paz e a segurança mundial '
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'história'
+'8. Qual das alternativas contém apenas invenções criadas no Brasil?',
+'Urna eletrônica, soro antiofídico (antídoto contra picada veneno das cobras) e chuveiro elétrico'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'história'
+'9. Em que país se localizava Auschwitz, o maior campo de concentração nazi?',
+'Polônia'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'geografia'
+'10. Quais o menor e o maior país do mundo?',
+'Vaticano e Rússia'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'geografia'
+'11. Que país tem o formato de uma bota?',
+' Itália'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'ciências'
+'12. Quais são as fases da Lua?',
+' Nova, crescente, cheia e minguante'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'conhecimentos gerais'
+'13. Quantos andares tem o maior prédio do mundo?',
+'163'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'geografia'
+'14. Em que região se localiza o estado de Minas Gerais?',
+'Sudeste'
 )
 
 criaCartao(
-'categoria'
-'pergunta',
-'resposta'
+'química'
+'15. Qual destas substâncias faz parte da composição do vidro?',
+'Areia'
 )
