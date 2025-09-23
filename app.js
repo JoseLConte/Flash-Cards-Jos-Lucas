@@ -18,7 +18,7 @@ function criaCartao(categoria, pergunta, resposta) {
     function viraCartao() {
         respostaEstaVisivel = !respostaEstaVisivel
     }
-
     container.appenChild(cartao)
 
+    
 }
