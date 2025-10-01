@@ -23,8 +23,8 @@ criaCartao(
 )
 
 criaCartao(
+    'química',
     '5. Qual o metal cujo símbolo químico é o Au?',
-    'pergunta',
     'Ouro'
 )
 
